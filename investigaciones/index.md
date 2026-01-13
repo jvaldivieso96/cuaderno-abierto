@@ -814,37 +814,37 @@ oficial puede responder:
 6.  ¿Hay riesgos actuales para los niños que asisten a esos
     establecimientos?
 
-7.  
+  
 
-8.  **EPÍLOGO: ¿Y AHORA QUÉ?**
+  **EPÍLOGO: ¿Y AHORA QUÉ?**
 
-9.  **Las denuncias**
+ **Las denuncias**
 
-10. Los antecedentes documentados en esta investigación han sido
+ Los antecedentes documentados en esta investigación han sido
     presentados formalmente ante la Contraloría Regional de Atacama
     mediante dos denuncias ciudadanas.
 
-11. **Primera denuncia:** Caso OPTIMA SOLUTION - Fiestas Patrias y SLEP
+ **Primera denuncia:** Caso OPTIMA SOLUTION - Fiestas Patrias y SLEP
     Atacama
 
-12. **Segunda denuncia:** Casos MULTI GDG y SANTJULIET - Sobreprecios y
+ **Segunda denuncia:** Casos MULTI GDG y SANTJULIET - Sobreprecios y
     coordinación
 
-13. Ambas solicitan:
+ Ambas solicitan:
 
-14. Sumarios administrativos contra funcionarios responsables
+ Sumarios administrativos contra funcionarios responsables
 
-15. Auditorías técnicas de las obras ejecutadas
+ Auditorías técnicas de las obras ejecutadas
 
-16. Juicios de cuentas para reintegro de sobreprecios
+ Juicios de cuentas para reintegro de sobreprecios
 
-17. Eventual derivación al Ministerio Público por delitos
+ Eventual derivación al Ministerio Público por delitos
 
-18. **Estado actual:** Pendiente de investigación (enero 2026)
+ **Estado actual:** Pendiente de investigación (enero 2026)
 
-19. **Lo que debería pasar**
+ **Lo que debería pasar**
 
-20. **Investigación inmediata:**
+ **Investigación inmediata:**
 
 21. Auditoría integral de todos los contratos mencionados
 
