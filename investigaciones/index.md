@@ -876,22 +876,22 @@ oficial puede responder:
 
 35. Demandas civiles contra las empresas
 
-36. Reintegro de sobreprecios al erario público
+ Reintegro de sobreprecios al erario público
 
-37. **Reformas estructurales:**
+ **Reformas estructurales:**
 
-38. Verificación automática de giros SII en plataforma ChileCompra
+ Verificación automática de giros SII en plataforma ChileCompra
 
-39. Rotación obligatoria de miembros de comisiones evaluadoras
+ Rotación obligatoria de miembros de comisiones evaluadoras
 
-40. Inspección técnica independiente para obras en establecimientos
+ Inspección técnica independiente para obras en establecimientos
     educacionales
 
-41. Mayor transparencia en publicación de antecedentes de proveedores
+ Mayor transparencia en publicación de antecedentes de proveedores
 
-42. **Lo que probablemente pasará**
+ **Lo que probablemente pasará**
 
-43. La experiencia con casos similares en Chile no es alentadora. Muchas
+ La experiencia con casos similares en Chile no es alentadora. Muchas
     denuncias de irregularidades en contratación pública terminan en:
 
  Investigaciones que se eternizan
