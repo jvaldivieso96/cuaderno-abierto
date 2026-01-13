@@ -894,90 +894,91 @@ oficial puede responder:
 43. La experiencia con casos similares en Chile no es alentadora. Muchas
     denuncias de irregularidades en contratación pública terminan en:
 
-44. Investigaciones que se eternizan
+ Investigaciones que se eternizan
 
-45. Sumarios que concluyen en amonestaciones menores
+ Sumarios que concluyen en amonestaciones menores
 
-46. Funcionarios que son trasladados en lugar de destituidos
+ Funcionarios que son trasladados en lugar de destituidos
 
-47. Empresas que siguen operando bajo otros nombres
+ Empresas que siguen operando bajo otros nombres
 
-48. Dinero que nunca se recupera
+ Dinero que nunca se recupera
 
-49. Pero cada vez que un caso se hace público, cada vez que se documenta
+ Pero cada vez que un caso se hace público, cada vez que se documenta
     el patrón, cada vez que la ciudadanía exige rendición de cuentas, se
     vuelve más difícil para el sistema mirar hacia otro lado.
 
-50. **El mensaje**
+ **El mensaje**
 
-51. Esta investigación no es solo sobre tres empresas y algunos
+ Esta investigación no es solo sobre tres empresas y algunos
     funcionarios en Atacama. Es sobre cómo colapsa un sistema de
     contratación pública cuando:
 
-52. Nadie verifica lo básico
+ Nadie verifica lo básico
 
-53. Todos aprueban sin cuestionar
+ Todos aprueban sin cuestionar
 
-54. El control interno no controla
+ El control interno no controla
 
-55. La simulación no tiene consecuencias
+ La simulación no tiene consecuencias
 
-56. Es sobre cómo el dinero destinado a la educación de los niños más
+ Es sobre cómo el dinero destinado a la educación de los niños más
     vulnerables termina en bolsillos de empresas que solo existen en
     papel.
 
-57. Es sobre cómo miles de personas estuvieron en riesgo en Fiestas
+ Es sobre cómo miles de personas estuvieron en riesgo en Fiestas
     Patrias porque nadie se tomó 2 minutos para verificar un giro
     comercial.
 
-58. Es sobre cómo la institucionalidad pública, diseñada para servir al
+ Es sobre cómo la institucionalidad pública, diseñada para servir al
     bien común, puede ser capturada por intereses privados cuando la
     fiscalización falla.
 
-59. **Y es sobre qué tan en serio nos tomamos como sociedad la defensa
+
+**Y es sobre qué tan en serio nos tomamos como sociedad la defensa
     de los recursos públicos.**
 
-60. 
+ 
 
-61. **METODOLOGÍA**
+ **METODOLOGÍA**
 
-62. Esta investigación se basa en:
+ Esta investigación se basa en:
 
-63. Documentos oficiales de denuncias ciudadanas ante Contraloría
+ Documentos oficiales de denuncias ciudadanas ante Contraloría
     Regional de Atacama
 
-64. Registros públicos del Servicio de Impuestos Internos (SII)
+ Registros públicos del Servicio de Impuestos Internos (SII)
 
-65. Información de procesos de compra en plataforma ChileCompra /
+Información de procesos de compra en plataforma ChileCompra /
     Mercado Público
 
-66. Certificados municipales oficiales (Certificado N° 217/2025 del
+ Certificados municipales oficiales (Certificado N° 217/2025 del
     Concejo Municipal de Copiapó)
 
-67. Documentos administrativos oficiales (Ordinarios, CDP, Órdenes de
+ Documentos administrativos oficiales (Ordinarios, CDP, Órdenes de
     Compra)
 
-68. Normativa vigente de contratación pública (Ley 19.886, Ley 18.575)
+ Normativa vigente de contratación pública (Ley 19.886, Ley 18.575)
 
-69. Normativa técnica SEC (Superintendencia de Electricidad y
+ Normativa técnica SEC (Superintendencia de Electricidad y
     Combustibles)
 
-70. Normativa educacional (Ley 21.040 - Sistema de Educación Pública)
+ Normativa educacional (Ley 21.040 - Sistema de Educación Pública)
 
-71. Todos los documentos citados son de carácter público o han sido
+ Todos los documentos citados son de carácter público o han sido
     aportados en denuncias formales ante autoridades competentes.
 
-72. **Actualización:** Enero 2026
+ **Actualización:** Enero 2026
 
-73. 
+ 
 
-74. *Esta investigación está abierta. Si tienes información adicional
+ *Esta investigación está abierta. Si tienes información adicional
     sobre estos casos, conoces otras irregularidades similares en la
     región, o eres funcionario público que quiere aportar antecedentes
     de forma confidencial, puedes contactar a \[tu información de
     contacto\].*
 
-75. *Si eres parte de una comunidad educativa afectada, apoderado de un
+ *Si eres parte de una comunidad educativa afectada, apoderado de un
     jardín infantil donde trabajó OPTIMA SOLUTION, o testigo de alguno
     de estos hechos, tu testimonio puede ser clave para la investigación
     oficial.*
