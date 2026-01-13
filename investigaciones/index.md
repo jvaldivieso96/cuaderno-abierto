@@ -846,35 +846,35 @@ oficial puede responder:
 
  **Investigación inmediata:**
 
-21. Auditoría integral de todos los contratos mencionados
+ Auditoría integral de todos los contratos mencionados
 
-22. Inspección técnica de jardines infantiles y otras obras
+ Inspección técnica de jardines infantiles y otras obras
 
-23. Verificación de capacidad real de las empresas
+ Verificación de capacidad real de las empresas
 
-24. Identificación de responsables individuales
+ Identificación de responsables individuales
 
-25. **Sanciones administrativas:**
+ **Sanciones administrativas:**
 
-26. Sumarios contra funcionarios que aprobaron sin verificar
+ Sumarios contra funcionarios que aprobaron sin verificar
 
-27. Destituciones si procede
+ Destituciones si procede
 
-28. Inhabilitación para cargos públicos
+ Inhabilitación para cargos públicos
 
-29. **Sanciones penales:**
+ **Sanciones penales:**
 
-30. Querellas por fraude al fisco
+ Querellas por fraude al fisco
 
-31. Eventual cohecho si hay evidencia de pagos indebidos
+ Eventual cohecho si hay evidencia de pagos indebidos
 
-32. Falsificación de documentos si se presentaron certificaciones falsas
+ Falsificación de documentos si se presentaron certificaciones falsas
 
-33. **Recuperación de fondos:**
+ **Recuperación de fondos:**
 
-34. Juicios de cuentas contra funcionarios responsables
+ Juicios de cuentas contra funcionarios responsables
 
-35. Demandas civiles contra las empresas
+ Demandas civiles contra las empresas
 
  Reintegro de sobreprecios al erario público
 
